@@ -1,11 +1,11 @@
-package fr.devoxx.sizeof;
+package org.terracotta.demos.demos;
 
 import org.junit.Test;
 
 /**
  * @author Alex Snaps
  */
-public class MemoryCheck {
+public class MemoryTest {
 
   static class A {
     byte a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,

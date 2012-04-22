@@ -1,4 +1,4 @@
-package fr.devoxx.sizeof;
+package org.terracotta.demos.sizeof;
 
 import java.lang.reflect.Field;
 

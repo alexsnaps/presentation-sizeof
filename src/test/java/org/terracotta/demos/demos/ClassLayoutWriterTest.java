@@ -1,6 +1,7 @@
-package fr.devoxx.sizeof;
+package org.terracotta.demos.demos;
 
 import org.junit.Test;
+import org.terracotta.demos.sizeof.ClassLayoutWriter;
 
 import java.io.IOException;
 
